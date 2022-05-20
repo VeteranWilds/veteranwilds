@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Veteran Wilds",
+    "description": "",
+    "home_page_url": "https://veteranwilds.github.io/veteranwilds",
+    "feed_url": "https://veteranwilds.github.io/veteranwilds/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Grant Gibson"
+    },
+    "items": [
+    ]
+}
